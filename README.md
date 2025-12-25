@@ -31,11 +31,11 @@ The goal was to build a user-friendly site from scratch using only HTML and CSS.
 
 ## 📁 Project Structure
 
-|——images/ - Image assets used in the site
-|——pages/ - Additional HTML pages
-|——styles/ - CSS stylesheet
-|——index.html - Main homepage
-|——README.md - Project documentation
+├── images/ – Image assets used in the site
+├── pages/ – Additional HTML pages (if applicable)
+├── styles/ – CSS stylesheet(s)
+├── index.html – Main homepage
+└── README.md – Project documentation
 
 
 ---
